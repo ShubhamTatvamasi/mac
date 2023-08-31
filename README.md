@@ -1,5 +1,10 @@
 # mac
 
+Install regular tools:
+```bash
+brew install go
+```
+
 Insall `ip` tool in macos:
 ```bash
 brew install iproute2mac
