@@ -8,7 +8,8 @@ brew install \
   ansible \
   hugo \
   kubectx \
-  awscli
+  awscli \
+  node
 ```
 
 Insall `ip` tool in macos:
