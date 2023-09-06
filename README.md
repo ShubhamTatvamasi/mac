@@ -2,7 +2,13 @@
 
 Install regular tools:
 ```bash
-brew install go
+brew install \
+  go \
+  multipass \
+  ansible \
+  hugo \
+  kubectx \
+  awscli
 ```
 
 Insall `ip` tool in macos:
