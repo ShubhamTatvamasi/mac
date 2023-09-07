@@ -10,12 +10,8 @@ brew install \
   kubectx \
   awscli \
   node \
-  helm
-```
-
-Insall `ip` tool in macos:
-```bash
-brew install iproute2mac
+  helm \
+  iproute2mac
 ```
 
 Delete windscribe data:
