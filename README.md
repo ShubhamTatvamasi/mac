@@ -11,7 +11,8 @@ brew install \
   awscli \
   node \
   helm \
-  iproute2mac
+  iproute2mac \
+  wget
 ```
 
 Delete windscribe data:
