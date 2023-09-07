@@ -9,7 +9,8 @@ brew install \
   hugo \
   kubectx \
   awscli \
-  node
+  node \
+  helm
 ```
 
 Insall `ip` tool in macos:
