@@ -1,5 +1,11 @@
 # mac
 
+Update all packages:
+```bash
+brew update
+brew upgrade
+```
+
 Install regular tools:
 ```bash
 brew install \
