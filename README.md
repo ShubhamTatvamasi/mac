@@ -19,7 +19,8 @@ brew install \
   helm \
   iproute2mac \
   wget \
-  bat
+  bat \
+  azure-cli
 ```
 
 Delete windscribe data:
