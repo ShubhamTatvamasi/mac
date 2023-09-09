@@ -18,7 +18,8 @@ brew install \
   node \
   helm \
   iproute2mac \
-  wget
+  wget \
+  bat
 ```
 
 Delete windscribe data:
