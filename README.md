@@ -20,7 +20,8 @@ brew install \
   iproute2mac \
   wget \
   bat \
-  azure-cli
+  azure-cli \
+  tree
 ```
 
 Delete windscribe data:
