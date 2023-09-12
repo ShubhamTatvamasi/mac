@@ -21,7 +21,9 @@ brew install \
   wget \
   bat \
   azure-cli \
-  tree
+  tree \
+  packer \
+  terraform
 ```
 
 Delete windscribe data:
