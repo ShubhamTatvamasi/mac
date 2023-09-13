@@ -23,7 +23,8 @@ brew install \
   azure-cli \
   tree \
   packer \
-  terraform
+  terraform \
+  rke
 ```
 
 Delete windscribe data:
