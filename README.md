@@ -27,6 +27,15 @@ brew install \
   rke
 ```
 
+Set Go Path:
+```bash
+mkdir -p ~/go/{bin,pkg,src}
+echo 'export GOPATH="$HOME/go"' >> ~/.zshrc
+echo 'export PATH="$PATH:${GOPATH//://bin:}/bin"' >> ~/.zshrc
+source ~/.zshrc
+```
+
+
 Delete windscribe data:
 ```bash
 rm ~/Library/Preferences/com.windscribe.Windscribe.plist
