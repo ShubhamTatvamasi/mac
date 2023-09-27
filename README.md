@@ -24,7 +24,8 @@ brew install \
   tree \
   packer \
   terraform \
-  rke
+  rke \
+  kubebuilder
 ```
 
 Set Go Path:
