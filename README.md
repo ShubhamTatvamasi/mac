@@ -41,3 +41,9 @@ Delete windscribe data:
 ```bash
 rm ~/Library/Preferences/com.windscribe.Windscribe.plist
 ```
+
+Check system info:
+```bash
+alias free="top -l 1 -s 0 | head"
+```
+
