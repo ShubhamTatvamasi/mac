@@ -25,7 +25,13 @@ brew install \
   packer \
   terraform \
   rke \
-  kubebuilder
+  kubebuilder \
+  htop \
+  nmap \
+  jq \
+  tsh \
+  velero \
+  kubeseal
 ```
 
 Set Go Path:
