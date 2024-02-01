@@ -31,7 +31,8 @@ brew install \
   jq \
   tsh \
   velero \
-  kubeseal
+  kubeseal \
+  kops
 ```
 
 Set Go Path:
