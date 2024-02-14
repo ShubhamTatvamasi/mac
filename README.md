@@ -29,7 +29,7 @@ brew install \
   htop \
   nmap \
   jq \
-  tsh \
+  teleport \
   velero \
   kubeseal \
   kops
