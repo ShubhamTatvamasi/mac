@@ -32,7 +32,9 @@ brew install \
   teleport \
   velero \
   kubeseal \
-  kops
+  kops \
+  bash \
+  jsonnet
 ```
 
 Set Go Path:
