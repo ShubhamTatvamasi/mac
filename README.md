@@ -45,6 +45,10 @@ echo 'export PATH="$PATH:${GOPATH//://bin:}/bin"' >> ~/.zshrc
 source ~/.zshrc
 ```
 
+Flush DNS records:
+```bash
+sudo dscacheutil -flushcache; sudo killall -HUP mDNSResponder
+```
 
 Delete windscribe data:
 ```bash
