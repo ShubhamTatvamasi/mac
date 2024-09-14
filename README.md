@@ -1,5 +1,14 @@
 # mac
 
+Update `PATH` for running brew:
+```bash
+vim ~/.zshrc
+```
+
+```bash
+export PATH=$PATH:/opt/homebrew/bin
+```
+
 Update all packages:
 ```bash
 brew update
