@@ -43,7 +43,8 @@ brew install \
   kubeseal \
   kops \
   bash \
-  jsonnet
+  jsonnet \
+  gnupg
 ```
 
 Set Go Path:
