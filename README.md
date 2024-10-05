@@ -32,7 +32,6 @@ brew install \
   azure-cli \
   tree \
   packer \
-  terraform \
   rke \
   kubebuilder \
   htop \
