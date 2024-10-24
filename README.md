@@ -37,6 +37,7 @@ brew install \
   htop \
   nmap \
   jq \
+  ffind \
   teleport \
   velero \
   kubeseal \
