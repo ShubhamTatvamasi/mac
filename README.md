@@ -44,7 +44,8 @@ brew install \
   kops \
   bash \
   jsonnet \
-  gnupg
+  gnupg \
+  ripgrep
 ```
 
 Set Go Path:
