@@ -6,7 +6,7 @@ vim ~/.zshrc
 ```
 
 ```bash
-export PATH=$PATH:/opt/homebrew/bin
+export PATH=/opt/homebrew/bin:$PATH
 ```
 
 Update all packages:
