@@ -49,6 +49,11 @@ brew install \
   ripgrep
 ```
 
+Add softlink for node:
+```bash
+ln -s /opt/homebrew/opt/node@22/bin/node /opt/homebrew/bin/node
+```
+
 Set Go Path:
 ```bash
 mkdir -p ~/go/{bin,pkg,src}
