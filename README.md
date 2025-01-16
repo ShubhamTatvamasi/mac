@@ -56,9 +56,15 @@ brew unlink node@22
 brew link --overwrite node@22
 ```
 
-Link node folder:
+Link node:
 ```bash
 ln -s /opt/homebrew/Cellar/node@22/22.13.0 /opt/homebrew/opt/node
+```
+
+link python:
+```bash
+ln -s /opt/homebrew/Cellar/python@3.11/3.11.11 /opt/homebrew/opt/python@3
+ln -s /opt/homebrew/Cellar/python@3.11/3.11.11/bin/python3.11 /opt/homebrew/bin/python3
 ```
 
 Set Go Path:
