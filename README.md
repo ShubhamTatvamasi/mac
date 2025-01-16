@@ -55,6 +55,11 @@ brew unlink node@22
 brew link --overwrite node@22
 ```
 
+Link node folder:
+```bash
+ln -s /opt/homebrew/Cellar/node@22/22.13.0 /opt/homebrew/opt/node
+```
+
 Set Go Path:
 ```bash
 mkdir -p ~/go/{bin,pkg,src}
