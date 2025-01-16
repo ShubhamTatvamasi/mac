@@ -46,7 +46,8 @@ brew install \
   bash \
   jsonnet \
   gnupg \
-  ripgrep
+  ripgrep \
+  git
 ```
 
 link node:
