@@ -24,6 +24,7 @@ brew install \
   hugo \
   kubectx \
   awscli \
+  aws-cdk \
   node \
   helm \
   iproute2mac \
