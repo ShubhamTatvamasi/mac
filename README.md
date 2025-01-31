@@ -47,7 +47,8 @@ brew install \
   jsonnet \
   gnupg \
   ripgrep \
-  git
+  git \
+  pwgen
 ```
 
 link node:
