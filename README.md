@@ -48,7 +48,8 @@ brew install \
   gnupg \
   ripgrep \
   git \
-  pwgen
+  pwgen \
+  wireguard-tools
 ```
 
 link node:
