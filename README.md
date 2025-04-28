@@ -49,7 +49,8 @@ brew install \
   ripgrep \
   git \
   pwgen \
-  wireguard-tools
+  wireguard-tools \
+  checkov
 ```
 
 link node:
