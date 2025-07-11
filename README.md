@@ -50,6 +50,7 @@ brew install \
   git \
   pwgen \
   wireguard-tools \
+  minikube \
   checkov
 ```
 
