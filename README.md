@@ -51,6 +51,8 @@ brew install \
   pwgen \
   wireguard-tools \
   minikube \
+  yq \
+  telnet \
   checkov
 ```
 
