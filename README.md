@@ -53,7 +53,8 @@ brew install \
   minikube \
   yq \
   telnet \
-  checkov
+  checkov \
+  poppler
 ```
 
 link node:
