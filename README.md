@@ -54,6 +54,7 @@ brew install \
   yq \
   telnet \
   checkov \
+  jinja2-cli \
   poppler
 ```
 
