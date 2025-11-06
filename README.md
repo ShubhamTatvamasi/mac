@@ -31,6 +31,7 @@ brew install \
   wget \
   bat \
   azure-cli \
+  azcopy \
   tree \
   packer \
   rke \
