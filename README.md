@@ -1,6 +1,6 @@
 # mac
 
-https://brew.sh/
+https://brew.sh
 
 Update `PATH` for running brew:
 ```bash
