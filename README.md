@@ -1,5 +1,7 @@
 # mac
 
+https://brew.sh/
+
 Update `PATH` for running brew:
 ```bash
 vim ~/.zshrc
