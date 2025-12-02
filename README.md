@@ -27,7 +27,7 @@ brew install \
   kubectx \
   awscli \
   aws-cdk \
-  node@22 \
+  node@24 \
   helm \
   iproute2mac \
   wget \
