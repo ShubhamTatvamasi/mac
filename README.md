@@ -40,6 +40,7 @@ brew install \
   kubectx \
   kubebuilder \
   kubeseal \
+  kubecolor \
   htop \
   nmap \
   jq \
