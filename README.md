@@ -37,14 +37,15 @@ brew install \
   tree \
   packer \
   rke \
+  kubectl \
   kubebuilder \
+  kubeseal \
   htop \
   nmap \
   jq \
   ffind \
   teleport \
   velero \
-  kubeseal \
   kops \
   bash \
   jsonnet \
