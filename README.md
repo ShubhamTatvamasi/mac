@@ -24,7 +24,6 @@ brew install \
   multipass \
   ansible \
   hugo \
-  kubectx \
   awscli \
   aws-cdk \
   node@24 \
@@ -38,6 +37,7 @@ brew install \
   packer \
   rke \
   kubectl \
+  kubectx \
   kubebuilder \
   kubeseal \
   htop \
