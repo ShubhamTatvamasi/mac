@@ -20,44 +20,44 @@ brew upgrade
 Install regular tools:
 ```bash
 brew install \
-  go \
-  multipass \
-  ansible \
-  hugo \
-  awscli \
-  aws-cdk \
-  node@24 \
-  helm \
-  iproute2mac \
-  wget \
-  bat \
-  azure-cli \
-  azcopy \
-  tree \
-  packer \
-  rke \
   kubectl \
   kubectx \
   kubebuilder \
   kubeseal \
   kubecolor \
-  htop \
-  nmap \
+  minikube \
+  helm \
   jq \
+  yq \
+  htop \
+  bash \
+  wget \
+  bat \
+  tree \
   ffind \
   teleport \
+  telnet \
+  go \
+  node@24 \
+  multipass \
+  ansible \
+  hugo \
+  awscli \
+  aws-cdk \
+  azure-cli \
+  azcopy \
+  iproute2mac \
+  packer \
+  rke \
+  nmap \
   velero \
   kops \
-  bash \
   jsonnet \
   gnupg \
   ripgrep \
   git \
   pwgen \
   wireguard-tools \
-  minikube \
-  yq \
-  telnet \
   checkov \
   mat2 \
   jinja2-cli \
