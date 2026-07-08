@@ -60,6 +60,7 @@ brew install \
   wireguard-tools \
   checkov \
   mat2 \
+  watch \
   jinja2-cli \
   poppler
 ```
