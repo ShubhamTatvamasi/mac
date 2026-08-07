@@ -62,6 +62,7 @@ brew install \
   mat2 \
   watch \
   jinja2-cli \
+  coreutils \
   poppler
 ```
 
